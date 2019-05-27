@@ -1,4 +1,4 @@
-# Free_Cell_Game
+# Card_Game_Python
 
 The aim of this project is to create a solitaire based game clone in Python.
 
